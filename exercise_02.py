@@ -1,4 +1,4 @@
-user_integer = int(input("Enter an integer: 123"))
+user_integer = int(input("Enter an integer: "))
 user_decimal = float(input("Enter a decimal number: "))
 user_text = input("Enter a string: ")
 print("Formatted Output using old-style formatting:")
